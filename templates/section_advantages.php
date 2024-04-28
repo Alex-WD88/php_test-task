@@ -8,7 +8,7 @@
                 <span>Opis</span>
             </div>
             <div class='description_block'>
-                <p>какоето описание</p>
+                <p>какое-то описание</p>
                 <span>назад</span>
             </div>
         </li> 
@@ -19,7 +19,7 @@
                 <span>Opis</span>
             </div>
             <div class='description_block'>
-                <p>какоето описание</p>
+                <p>какое-то описание</p>
                 <span>назад</span>
             </div>
         </li>
@@ -30,7 +30,7 @@
                 <span>Opis</span>
             </div>
             <div class='description_block'>
-                <p>какоето описание</p>
+                <p>какое-то описание</p>
                 <span>назад</span>
             </div>
         </li>
@@ -41,7 +41,7 @@
                 <span>Opis</span>
             </div>
             <div class='description_block'>
-                <p>какоето описание</p>
+                <p>какое-то описание</p>
                 <span>назад</span>
             </div>
         </li>
@@ -52,7 +52,7 @@
                 <span>Opis</span>
             </div>
             <div class='description_block'>
-                <p>какоето описание</p>
+                <p>какое-то описание</p>
                 <span>назад</span>
             </div>
         </li>
@@ -63,7 +63,7 @@
                 <span>Opis</span>
             </div>
             <div class='description_block'>
-                <p>какоето описание</p>
+                <p>какое-то описание</p>
                 <span>назад</span>
             </div>
         </li>
@@ -74,7 +74,7 @@
                 <span>Opis</span>
             </div>
             <div class='description_block'>
-                <p>какоето описание</p>
+                <p>какое-то описание</p>
                 <span>назад</span>
             </div>
         </li>
@@ -85,7 +85,7 @@
                 <span>Opis</span>
             </div>
             <div class='description_block'>
-                <p>какоето описание</p>
+                <p>какое-то описание</p>
                 <span>назад</span>
             </div>
         </li>  

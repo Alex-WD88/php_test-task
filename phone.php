@@ -4,7 +4,6 @@ if (!$phoneCodes) {
     die('Не удалось загрузить данные из phone-codes.json');
 }
 
-
 function cleanPhoneNumber($number) {
     return preg_replace('/[\+\s\-()]+/', '', $number);
 }
